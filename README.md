@@ -15,4 +15,4 @@
 
 ![Darkmode css](https://user-images.githubusercontent.com/13159333/172981552-79385a05-bdbf-47c8-9a87-f7bf88bff1b3.png)
 
-3. Replace and edit the `darkmode.css` file as desired.
+3. Replace and edit the `darkmode.css` file as desired. To use my personal configuration, replace `darkmode.css` on your local machine with [my darkmode.css](https://github.com/braden-w/Dark-Mode-Franz-Ferdi-Google-Calendar-darkmode.css/blob/fa75e8aa814d1b4205b82d05c9c57123f4caf23f/darkmode.css).
